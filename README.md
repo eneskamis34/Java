@@ -1,3 +1,4 @@
 # Java
-## Java Practices
+## Java Pratiklerim ve Notlarım
+
 
